@@ -1,5 +1,5 @@
 // C program for implementation of Simulation 
-//recivied help from Chad and Yasmin
+//recivied help from Doron
 #include<stdio.h> 
 #include<limits.h>
 #include<stdlib.h>
